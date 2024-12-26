@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shahzadfuze
 - 👀 I’m interested i learning programing and engineering
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently learning C and C++
 
 
 <!---
