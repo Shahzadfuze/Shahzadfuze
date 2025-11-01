@@ -2,7 +2,7 @@
 
 - I am a junior in Electrical and Computer Engineering with a interest in robotics and machine learning
 - Current Languages I work on are C, C++, Python
-- This page is just where I post my personal coding projects just to achive them for the time being
+- This page is just where I post my personal coding projects just to archive them for the time being
 - Feel free to connect with me on Linked-In lets have a chat
 
 
